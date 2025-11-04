@@ -10,8 +10,7 @@
    pip install numpy pandas scipy matplotlib seaborn jupyter
    pip install streamlit
    ```
-2. open the Copy_of_Proyek_Analisis_Data 5.ipynb file in Google Collab on browser
-3. Run steamlit app
+2. Run steamlit app
    ```
    streamlit run navigasi.py
    ```
